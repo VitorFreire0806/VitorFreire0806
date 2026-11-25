@@ -20,7 +20,7 @@
 ![F1](https://img.shields.io/badge/Formula%201-fan-E10600?style=for-the-badge&logo=formula1&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vitor--a--freire-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-a-freire/)
 
-🇬🇧 English below · 🇵🇹🇧🇷 Português mais abaixo
+🇬🇧 English below · 🇵🇹🇧🇷 Português mais abaixo · 🇪🇸 Español más abajo
 
 </div>
 
@@ -71,7 +71,6 @@ Outside of work, I'm a big **Formula 1** fan 🏎️. Engineering, data and spee
 <tr><td valign="top">🚗 <b>Automotive Display</b> <i>(private)</i></td><td valign="top">Round-display automotive UI with an on-board IMU</td><td valign="top">C · Zephyr · LVGL · ESP32-S3</td></tr>
 <tr><td valign="top">🧪 <b>DE1-SoC VHDL</b> <i>(private)</i></td><td valign="top">Switches, LEDs and pseudo-random LED patterns on the Terasic DE1-SoC</td><td valign="top">VHDL</td></tr>
 <tr><td valign="top">📚 <a href="https://github.com/VitorFreire0806/LIbaryAltium">LIbaryAltium</a></td><td valign="top">Altium Designer component library</td><td valign="top">Altium</td></tr>
-<tr><td valign="top">🔌 <a href="https://github.com/VitorFreire0806/Micro_Toshiba">Micro_Toshiba</a></td><td valign="top">Toshiba microcontroller work</td><td valign="top">—</td></tr>
 </tbody>
 </table>
 
@@ -124,11 +123,62 @@ Fora do trabalho, sou grande fã de **Fórmula 1** 🏎️. Engenharia, dados e 
 <tr><td valign="top">🚗 <b>Display Automotivo</b> <i>(privado)</i></td><td valign="top">Interface automotiva em display redondo com IMU embutida</td><td valign="top">C · Zephyr · LVGL · ESP32-S3</td></tr>
 <tr><td valign="top">🧪 <b>DE1-SoC VHDL</b> <i>(privado)</i></td><td valign="top">Chaves, LEDs e padrões pseudoaleatórios de LEDs na Terasic DE1-SoC</td><td valign="top">VHDL</td></tr>
 <tr><td valign="top">📚 <a href="https://github.com/VitorFreire0806/LIbaryAltium">LIbaryAltium</a></td><td valign="top">Biblioteca de componentes para Altium Designer</td><td valign="top">Altium</td></tr>
-<tr><td valign="top">🔌 <a href="https://github.com/VitorFreire0806/Micro_Toshiba">Micro_Toshiba</a></td><td valign="top">Trabalho com microcontroladores Toshiba</td><td valign="top">—</td></tr>
 </tbody>
 </table>
 
 > A maioria dos meus projetos é privada. Entre em contato se quiser saber mais.
+
+</details>
+
+<details open>
+<summary><h2>🇪🇸 Español</h2></summary>
+
+### 👋 Sobre mí
+
+Soy **Ingeniero Mecatrónico** y **estudiante de máster en Ingeniería Electrónica (RF)** en la **Universidad del Algarve**, en Portugal. Mi trabajo está donde se encuentran el hardware, el firmware y las comunicaciones: del esquemático y la PCB al código, al enlace de radio y a las pruebas en campo.
+
+Empecé en electrónica y desarrollo de producto en Brasil. Después trabajé como **Field Applications Engineer**, apoyando a equipos de I+D con microcontroladores y componentes. Hoy vuelvo a **I+D**, construyendo sistemas conectados.
+
+Fuera del trabajo, soy un gran aficionado a la **Fórmula 1** 🏎️. Ingeniería, datos y velocidad en un mismo deporte.
+
+### 🔬 En qué estoy trabajando
+
+- 💧 **IoT para monitorización de agua y ciudades inteligentes.** Soy Ingeniero de I+D en **Smartconnect**, con telemetría, sensórica y supervisión remota para la gestión del agua y el riego inteligente.
+- 🛰️ **Investigación en nanosatélites.** Mi investigación de máster en la Universidad del Algarve trata del desarrollo de nanosatélites y de los enlaces de RF asociados.
+- 📡 **Conectividad.** LoRa, NB-IoT, MQTT y actualizaciones de firmware OTA para dispositivos conectados.
+- 🔧 **Firmware embebido.** Zephyr RTOS, LVGL y C/C++ en ESP32, STM32 y microcontroladores Toshiba.
+
+### 💼 Experiencia
+
+<table>
+<thead>
+<tr><th align="left">Periodo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th><th align="left">Función&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th><th align="left">Dónde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th></tr>
+</thead>
+<tbody>
+<tr><td valign="top">2026 – hoy</td><td valign="top"><b>Ingeniero de I+D</b>, IoT para monitorización de agua y ciudades inteligentes</td><td valign="top">Smartconnect, Faro</td></tr>
+<tr><td valign="top">2025 – hoy</td><td valign="top"><b>Field Applications Engineer</b>, microcontroladores y discretos Toshiba</td><td valign="top">Ciontek (Toshiba Brasil)</td></tr>
+<tr><td valign="top">2023 – 2026</td><td valign="top"><b>Ingeniero de I+D</b>, electrónica, mecánica y software</td><td valign="top">Tech Lab Development</td></tr>
+<tr><td valign="top">2022 – 2024</td><td valign="top"><b>Investigador y Desarrollador de I+D</b>, Altium, SolidWorks, ISO 9001</td><td valign="top">Verin</td></tr>
+<tr><td valign="top">2018 – 2022</td><td valign="top"><b>Desarrollador Mecatrónico</b>, diseño de PCB y firmware</td><td valign="top">Tecnohold</td></tr>
+</tbody>
+</table>
+
+### 🚀 Proyectos
+
+<table>
+<thead>
+<tr><th align="left">Proyecto&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th><th align="left">Qué&nbsp;es&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th><th align="left">Stack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th></tr>
+</thead>
+<tbody>
+<tr><td valign="top">🛰️ <b>NanoSat</b> <i>(privado)</i></td><td valign="top">Desarrollo de un nanosatélite para mi máster en la Universidad del Algarve</td><td valign="top">Python</td></tr>
+<tr><td valign="top">💧 <b>Monitorización inteligente de agua</b> <i>(privado)</i></td><td valign="top">Sistema conectado de medición y válvula con telemetría y actualización OTA</td><td valign="top">Zephyr · LoRa · NB-IoT · MQTT</td></tr>
+<tr><td valign="top">🚗 <b>Pantalla Automotriz</b> <i>(privado)</i></td><td valign="top">Interfaz automotriz en pantalla redonda con IMU integrada</td><td valign="top">C · Zephyr · LVGL · ESP32-S3</td></tr>
+<tr><td valign="top">🧪 <b>DE1-SoC VHDL</b> <i>(privado)</i></td><td valign="top">Interruptores, LEDs y patrones pseudoaleatorios de LEDs en la Terasic DE1-SoC</td><td valign="top">VHDL</td></tr>
+<tr><td valign="top">📚 <a href="https://github.com/VitorFreire0806/LIbaryAltium">LIbaryAltium</a></td><td valign="top">Biblioteca de componentes para Altium Designer</td><td valign="top">Altium</td></tr>
+</tbody>
+</table>
+
+> La mayoría de mis proyectos son privados. Escríbeme si quieres saber más.
 
 </details>
 
@@ -150,6 +200,6 @@ Fora do trabalho, sou grande fã de **Fórmula 1** 🏎️. Engenharia, dados e 
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📫 Contact · Contato
+## 📫 Contact · Contato · Contacto
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-a-freire/)
