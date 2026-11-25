@@ -42,7 +42,7 @@ Outside of work, I'm a big **Formula 1** fan 🏎️. Engineering, data and spee
 - 💧 **IoT for water monitoring and smart cities.** I'm an R&D Engineer at **Smartconnect**, working on telemetry, sensing and remote supervision for water management and smart irrigation.
 - 🛰️ **Nanosatellite research.** My Master's research at the University of Algarve is on nanosatellite development and the RF links that go with it.
 - 📡 **Connectivity.** LoRa, NB-IoT, MQTT and OTA firmware updates for connected devices.
-- 🔧 **Embedded firmware.** Zephyr RTOS, LVGL and C/C++ on ESP32, STM32 and Toshiba microcontrollers.
+- 🔧 **Embedded firmware.** C/C++, Zephyr RTOS and LVGL on Toshiba, ST and WCH microcontrollers.
 
 ### 💼 Experience
 
@@ -93,7 +93,7 @@ Fora do trabalho, sou grande fã de **Fórmula 1** 🏎️. Engenharia, dados e 
 - 💧 **IoT para monitoramento de água e cidades inteligentes.** Sou Engenheiro de P&D na **Smartconnect**, com telemetria, sensoriamento e supervisão remota para gestão de água e irrigação inteligente.
 - 🛰️ **Pesquisa em nanossatélites.** Minha pesquisa de mestrado na Universidade do Algarve é sobre o desenvolvimento de nanossatélites e os enlaces de RF associados.
 - 📡 **Conectividade.** LoRa, NB-IoT, MQTT e atualizações de firmware OTA para dispositivos conectados.
-- 🔧 **Firmware embarcado.** Zephyr RTOS, LVGL e C/C++ em ESP32, STM32 e microcontroladores Toshiba.
+- 🔧 **Firmware embarcado.** C/C++, Zephyr RTOS e LVGL em microcontroladores Toshiba, ST e WCH.
 
 ### 💼 Experiência
 
@@ -144,7 +144,7 @@ Fuera del trabajo, soy un gran aficionado a la **Fórmula 1** 🏎️. Ingenier�
 - 💧 **IoT para monitorización de agua y ciudades inteligentes.** Soy Ingeniero de I+D en **Smartconnect**, con telemetría, sensórica y supervisión remota para la gestión del agua y el riego inteligente.
 - 🛰️ **Investigación en nanosatélites.** Mi investigación de máster en la Universidad del Algarve trata del desarrollo de nanosatélites y de los enlaces de RF asociados.
 - 📡 **Conectividad.** LoRa, NB-IoT, MQTT y actualizaciones de firmware OTA para dispositivos conectados.
-- 🔧 **Firmware embebido.** Zephyr RTOS, LVGL y C/C++ en ESP32, STM32 y microcontroladores Toshiba.
+- 🔧 **Firmware embebido.** C/C++, Zephyr RTOS y LVGL en microcontroladores Toshiba, ST y WCH.
 
 ### 💼 Experiencia
 
@@ -191,6 +191,8 @@ Fuera del trabajo, soy un gran aficionado a la **Fórmula 1** 🏎️. Ingenier�
 ![LVGL](https://img.shields.io/badge/LVGL-343839?style=flat-square)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Toshiba](https://img.shields.io/badge/Toshiba%20MCU-E60012?style=flat-square)
+![WCH](https://img.shields.io/badge/WCH%20MCU-1F6FEB?style=flat-square)
 ![Altium](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square)
