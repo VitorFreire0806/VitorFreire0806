@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vitor Freire
+<img src="assets/name.svg" alt="Vitor Freire" width="100%" style="max-width:817px" />
 
 **Mechatronics Engineer · R&D · Embedded Systems · IoT · RF**
 
@@ -39,24 +39,32 @@ Outside of work, I'm a big **Formula 1** fan 🏎️. Engineering, data and spee
 
 ### 💼 Experience
 
-| Period | Role | Where |
-|---|---|---|
-| 2026 – now | **R&D Engineer**, IoT for water monitoring and smart cities | Smartconnect, Faro |
-| 2025 – now | **Field Applications Engineer**, Toshiba microcontrollers and discretes | Ciontek (Toshiba Brazil) |
-| 2023 – 2026 | **R&D Engineer**, electronics, mechanics and software | Tech Lab Development |
-| 2022 – 2024 | **R&D Researcher and Developer**, Altium, SolidWorks, ISO 9001 | Verin |
-| 2018 – 2022 | **Mechatronics Developer**, PCB design and firmware | Tecnohold |
+<table width="100%">
+<colgroup><col width="22%"><col width="48%"><col width="30%"></colgroup>
+<thead><tr><th align="left">Period</th><th align="left">Role</th><th align="left">Where</th></tr></thead>
+<tbody>
+<tr><td valign="top">2026 – now</td><td valign="top"><b>R&D Engineer</b>, IoT for water monitoring and smart cities</td><td valign="top">Smartconnect, Faro</td></tr>
+<tr><td valign="top">2025 – now</td><td valign="top"><b>Field Applications Engineer</b>, Toshiba microcontrollers and discretes</td><td valign="top">Ciontek (Toshiba Brazil)</td></tr>
+<tr><td valign="top">2023 – 2026</td><td valign="top"><b>R&D Engineer</b>, electronics, mechanics and software</td><td valign="top">Tech Lab Development</td></tr>
+<tr><td valign="top">2022 – 2024</td><td valign="top"><b>R&D Researcher and Developer</b>, Altium, SolidWorks, ISO 9001</td><td valign="top">Verin</td></tr>
+<tr><td valign="top">2018 – 2022</td><td valign="top"><b>Mechatronics Developer</b>, PCB design and firmware</td><td valign="top">Tecnohold</td></tr>
+</tbody>
+</table>
 
 ### 🚀 Projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| 🛰️ **NanoSat** *(private)* | Nanosatellite development for my Master's at the University of Algarve | Python |
-| 💧 **Smart water monitoring** *(private)* | Connected metering and valve system with telemetry and OTA updates | Zephyr · LoRa · NB-IoT · MQTT |
-| 🚗 **Automotive Display** *(private)* | Round-display automotive UI with an on-board IMU | C · Zephyr · LVGL · ESP32-S3 |
-| 🧪 **DE1-SoC VHDL** *(private)* | Switches, LEDs and pseudo-random LED patterns on the Terasic DE1-SoC | VHDL |
-| 📚 [LIbaryAltium](https://github.com/VitorFreire0806/LIbaryAltium) | Altium Designer component library | Altium |
-| 🔌 [Micro_Toshiba](https://github.com/VitorFreire0806/Micro_Toshiba) | Toshiba microcontroller work | — |
+<table width="100%">
+<colgroup><col width="22%"><col width="48%"><col width="30%"></colgroup>
+<thead><tr><th align="left">Project</th><th align="left">What it is</th><th align="left">Stack</th></tr></thead>
+<tbody>
+<tr><td valign="top">🛰️ <b>NanoSat</b> <i>(private)</i></td><td valign="top">Nanosatellite development for my Master's at the University of Algarve</td><td valign="top">Python</td></tr>
+<tr><td valign="top">💧 <b>Smart water monitoring</b> <i>(private)</i></td><td valign="top">Connected metering and valve system with telemetry and OTA updates</td><td valign="top">Zephyr · LoRa · NB-IoT · MQTT</td></tr>
+<tr><td valign="top">🚗 <b>Automotive Display</b> <i>(private)</i></td><td valign="top">Round-display automotive UI with an on-board IMU</td><td valign="top">C · Zephyr · LVGL · ESP32-S3</td></tr>
+<tr><td valign="top">🧪 <b>DE1-SoC VHDL</b> <i>(private)</i></td><td valign="top">Switches, LEDs and pseudo-random LED patterns on the Terasic DE1-SoC</td><td valign="top">VHDL</td></tr>
+<tr><td valign="top">📚 <a href="https://github.com/VitorFreire0806/LIbaryAltium">LIbaryAltium</a></td><td valign="top">Altium Designer component library</td><td valign="top">Altium</td></tr>
+<tr><td valign="top">🔌 <a href="https://github.com/VitorFreire0806/Micro_Toshiba">Micro_Toshiba</a></td><td valign="top">Toshiba microcontroller work</td><td valign="top">—</td></tr>
+</tbody>
+</table>
 
 > Most of my projects are private. Get in touch if you want to know more.
 
@@ -82,24 +90,32 @@ Fora do trabalho, sou grande fã de **Fórmula 1** 🏎️. Engenharia, dados e 
 
 ### 💼 Experiência
 
-| Período | Função | Onde |
-|---|---|---|
-| 2026 – hoje | **Engenheiro de P&D**, IoT para monitoramento de água e cidades inteligentes | Smartconnect, Faro |
-| 2025 – hoje | **Field Applications Engineer**, microcontroladores e discretos Toshiba | Ciontek (Toshiba Brasil) |
-| 2023 – 2026 | **Engenheiro de P&D**, eletrônica, mecânica e software | Tech Lab Development |
-| 2022 – 2024 | **Pesquisador e Desenvolvedor de P&D**, Altium, SolidWorks, ISO 9001 | Verin |
-| 2018 – 2022 | **Desenvolvedor Mecatrônico**, projeto de PCB e firmware | Tecnohold |
+<table width="100%">
+<colgroup><col width="22%"><col width="48%"><col width="30%"></colgroup>
+<thead><tr><th align="left">Período</th><th align="left">Função</th><th align="left">Onde</th></tr></thead>
+<tbody>
+<tr><td valign="top">2026 – hoje</td><td valign="top"><b>Engenheiro de P&D</b>, IoT para monitoramento de água e cidades inteligentes</td><td valign="top">Smartconnect, Faro</td></tr>
+<tr><td valign="top">2025 – hoje</td><td valign="top"><b>Field Applications Engineer</b>, microcontroladores e discretos Toshiba</td><td valign="top">Ciontek (Toshiba Brasil)</td></tr>
+<tr><td valign="top">2023 – 2026</td><td valign="top"><b>Engenheiro de P&D</b>, eletrônica, mecânica e software</td><td valign="top">Tech Lab Development</td></tr>
+<tr><td valign="top">2022 – 2024</td><td valign="top"><b>Pesquisador e Desenvolvedor de P&D</b>, Altium, SolidWorks, ISO 9001</td><td valign="top">Verin</td></tr>
+<tr><td valign="top">2018 – 2022</td><td valign="top"><b>Desenvolvedor Mecatrônico</b>, projeto de PCB e firmware</td><td valign="top">Tecnohold</td></tr>
+</tbody>
+</table>
 
 ### 🚀 Projetos
 
-| Projeto | O que é | Stack |
-|---|---|---|
-| 🛰️ **NanoSat** *(privado)* | Desenvolvimento de nanossatélite para meu mestrado na Universidade do Algarve | Python |
-| 💧 **Monitoramento inteligente de água** *(privado)* | Sistema conectado de medição e válvula com telemetria e atualização OTA | Zephyr · LoRa · NB-IoT · MQTT |
-| 🚗 **Display Automotivo** *(privado)* | Interface automotiva em display redondo com IMU embutida | C · Zephyr · LVGL · ESP32-S3 |
-| 🧪 **DE1-SoC VHDL** *(privado)* | Chaves, LEDs e padrões pseudoaleatórios de LEDs na Terasic DE1-SoC | VHDL |
-| 📚 [LIbaryAltium](https://github.com/VitorFreire0806/LIbaryAltium) | Biblioteca de componentes para Altium Designer | Altium |
-| 🔌 [Micro_Toshiba](https://github.com/VitorFreire0806/Micro_Toshiba) | Trabalho com microcontroladores Toshiba | — |
+<table width="100%">
+<colgroup><col width="22%"><col width="48%"><col width="30%"></colgroup>
+<thead><tr><th align="left">Projeto</th><th align="left">O que é</th><th align="left">Stack</th></tr></thead>
+<tbody>
+<tr><td valign="top">🛰️ <b>NanoSat</b> <i>(privado)</i></td><td valign="top">Desenvolvimento de nanossatélite para meu mestrado na Universidade do Algarve</td><td valign="top">Python</td></tr>
+<tr><td valign="top">💧 <b>Monitoramento inteligente de água</b> <i>(privado)</i></td><td valign="top">Sistema conectado de medição e válvula com telemetria e atualização OTA</td><td valign="top">Zephyr · LoRa · NB-IoT · MQTT</td></tr>
+<tr><td valign="top">🚗 <b>Display Automotivo</b> <i>(privado)</i></td><td valign="top">Interface automotiva em display redondo com IMU embutida</td><td valign="top">C · Zephyr · LVGL · ESP32-S3</td></tr>
+<tr><td valign="top">🧪 <b>DE1-SoC VHDL</b> <i>(privado)</i></td><td valign="top">Chaves, LEDs e padrões pseudoaleatórios de LEDs na Terasic DE1-SoC</td><td valign="top">VHDL</td></tr>
+<tr><td valign="top">📚 <a href="https://github.com/VitorFreire0806/LIbaryAltium">LIbaryAltium</a></td><td valign="top">Biblioteca de componentes para Altium Designer</td><td valign="top">Altium</td></tr>
+<tr><td valign="top">🔌 <a href="https://github.com/VitorFreire0806/Micro_Toshiba">Micro_Toshiba</a></td><td valign="top">Trabalho com microcontroladores Toshiba</td><td valign="top">—</td></tr>
+</tbody>
+</table>
 
 > A maioria dos meus projetos é privada. Entre em contato se quiser saber mais.
 
