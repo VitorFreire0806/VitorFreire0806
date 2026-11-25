@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c9cdb&height=200&section=header&text=Vitor%20Freire&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mechatronics%20Engineer%20%C2%B7%20Embedded%20%26%20RF&descAlignY=58&descSize=20" alt="Vitor Freire" />
+# Vitor Freire
+
+**Mechatronics Engineer · Embedded & RF**
 
 <a href="https://github.com/VitorFreire0806">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=2C9CDB&center=true&vCenter=true&width=640&lines=Firmware+%26+Embedded+Systems;RF+%2F+Nanosatellite+Engineering;Hardware+design+with+Altium;From+schematic+to+running+silicon" alt="Typing SVG" />
@@ -46,15 +48,3 @@ Master's student in **Electronic Engineering (RF)** and **Mechatronics Engineer*
 | 🚗 **Automotive Display** | Round-display automotive UI with an on-board IMU | C · Zephyr · LVGL · ESP32-S3 |
 | 📚 [LIbaryAltium](https://github.com/VitorFreire0806/LIbaryAltium) | Altium Designer component library | Altium |
 | 🔌 [Micro_Toshiba](https://github.com/VitorFreire0806/Micro_Toshiba) | Embedded project | — |
-
-> Some projects are private. Get in touch if you want to know more.
-
-## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-a-freire)
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c9cdb&height=100&section=footer" alt="" />
-
-</div>
