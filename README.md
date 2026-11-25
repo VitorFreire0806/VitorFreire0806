@@ -46,9 +46,9 @@ Outside of work, I'm a big **Formula 1** fan 🏎️. Engineering, data and spee
 
 ### 💼 Experience
 
-<table width="100%">
+<table>
 <thead>
-<tr><th align="left" width="22%">Period</th><th align="left" width="48%">Role</th><th align="left" width="30%">Where</th></tr>
+<tr><th align="left" width="22%">Period</th><th align="left" width="48%">Role<br><img src="assets/spacer.svg" width="406" height="1"></th><th align="left" width="30%">Where</th></tr>
 </thead>
 <tbody>
 <tr><td valign="top">2026 – now</td><td valign="top"><b>R&D Engineer</b>, IoT for water monitoring and smart cities</td><td valign="top">Smartconnect, Faro</td></tr>
@@ -61,9 +61,9 @@ Outside of work, I'm a big **Formula 1** fan 🏎️. Engineering, data and spee
 
 ### 🚀 Projects
 
-<table width="100%">
+<table>
 <thead>
-<tr><th align="left" width="22%">Project</th><th align="left" width="48%">What it is</th><th align="left" width="30%">Stack</th></tr>
+<tr><th align="left" width="22%">Project</th><th align="left" width="48%">What it is<br><img src="assets/spacer.svg" width="406" height="1"></th><th align="left" width="30%">Stack</th></tr>
 </thead>
 <tbody>
 <tr><td valign="top">🛰️ <b>NanoSat</b> <i>(private)</i></td><td valign="top">Nanosatellite development for my Master's at the University of Algarve</td><td valign="top">Python</td></tr>
@@ -99,9 +99,9 @@ Fora do trabalho, sou grande fã de **Fórmula 1** 🏎️. Engenharia, dados e 
 
 ### 💼 Experiência
 
-<table width="100%">
+<table>
 <thead>
-<tr><th align="left" width="22%">Período</th><th align="left" width="48%">Função</th><th align="left" width="30%">Onde</th></tr>
+<tr><th align="left" width="22%">Período</th><th align="left" width="48%">Função<br><img src="assets/spacer.svg" width="406" height="1"></th><th align="left" width="30%">Onde</th></tr>
 </thead>
 <tbody>
 <tr><td valign="top">2026 – hoje</td><td valign="top"><b>Engenheiro de P&D</b>, IoT para monitoramento de água e cidades inteligentes</td><td valign="top">Smartconnect, Faro</td></tr>
@@ -114,9 +114,9 @@ Fora do trabalho, sou grande fã de **Fórmula 1** 🏎️. Engenharia, dados e 
 
 ### 🚀 Projetos
 
-<table width="100%">
+<table>
 <thead>
-<tr><th align="left" width="22%">Projeto</th><th align="left" width="48%">O que é</th><th align="left" width="30%">Stack</th></tr>
+<tr><th align="left" width="22%">Projeto</th><th align="left" width="48%">O que é<br><img src="assets/spacer.svg" width="406" height="1"></th><th align="left" width="30%">Stack</th></tr>
 </thead>
 <tbody>
 <tr><td valign="top">🛰️ <b>NanoSat</b> <i>(privado)</i></td><td valign="top">Desenvolvimento de nanossatélite para meu mestrado na Universidade do Algarve</td><td valign="top">Python</td></tr>
